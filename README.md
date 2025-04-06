@@ -69,14 +69,15 @@
 ### 🤝 **Let’s Connect & Collaborate!**
 
 📩 Open to **Hackathons, Coding Challenges, and Innovative Projects**  
-📢 Reach out me on linkedin | Follow my **[GitHub](#)**  
+📢 Reach out on **[LinkedIn](https://www.linkedin.com/in/ritesh-bhatt-bb59442b6)** | Follow my **[GitHub](#)**  
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href=www.linkedin.com/in/ritesh-bhatt-bb59442b6><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritesh-bhatt-bb59442b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
