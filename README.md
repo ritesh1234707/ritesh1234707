@@ -59,10 +59,11 @@
 
 ### 🔥
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QX3JcbeZEDMq5Ko9XP/giphy.gif" width="200"/>
-</p>
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/19635777/file/original-159b90501c357f760a439b383f1a51e7.gif"  />
+</div>
 
+###
 ---
 
 ### 🤝 **Let’s Connect & Collaborate!**
